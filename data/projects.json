@@ -1,0 +1,20 @@
+[
+  {
+    "id": "0be7481c-c114-4c9d-b39c-40db89045aaa",
+    "owner_email": "arorasbeve@gmail.com",
+    "title": "pro1",
+    "details": "i really need to sleep",
+    "target": 80000,
+    "start_date": "2001-01-19",
+    "end_date": "2003-02-27"
+  },
+  {
+    "id": "f726015f-a131-41a3-84ac-f0888fc295b5",
+    "owner_email": "ola.rashad00@gmail.com",
+    "title": "po",
+    "details": "ppppl",
+    "target": 789798,
+    "start_date": "2003-02-27",
+    "end_date": "2003-03-27"
+  }
+]

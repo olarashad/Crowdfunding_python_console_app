@@ -1,0 +1,42 @@
+[
+  {
+    "id": "d6e01009-ff9e-47d0-a88a-4fedd7d80a7f",
+    "first": "arora",
+    "last": "sbeve",
+    "email": "arorasbeve@gmail.com",
+    "password": "e54fc6b51915e222ba6196747a19ebb8dfa651fd2b46a385a0ded647fbfefda0",
+    "mobile": "+201013466559",
+    "activated": true,
+    "activation_code": ""
+  },
+  {
+    "id": "bec4cbeb-6bcf-4fb9-bebb-3cdd5fa7c5aa",
+    "first": "lolo",
+    "last": "lolo",
+    "email": "example@gmail.com",
+    "password": "68d31642d5ee64f81c7706f66f82a8041540bd682d0318634a45614385a7a322",
+    "mobile": "+201013466559",
+    "activated": false,
+    "activation_code": "c02a24c2"
+  },
+  {
+    "id": "2309fffd-0219-4dc0-8aa5-e23baef4aece",
+    "first": "hehe",
+    "last": "hehe",
+    "email": "example2@gmail.com",
+    "password": "96cae35ce8a9b0244178bf28e4966c2ce1b8385723a96a6b838858cdd6ca0a1e",
+    "mobile": "01013466559",
+    "activated": true,
+    "activation_code": ""
+  },
+  {
+    "id": "f4a3ee87-cb4a-481f-b821-2a76e999e06f",
+    "first": "ola",
+    "last": "rashad",
+    "email": "ff@fmail.com",
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "mobile": "+201013466559",
+    "activated": true,
+    "activation_code": ""
+  }
+]
